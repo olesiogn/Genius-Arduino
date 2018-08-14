@@ -1,5 +1,5 @@
 # Genius-Arduino
-Genius em arduino
+Jogo Genius em arduino
 
 Você tem 3 vidas, a cada vida perdida o último passo é repetido. Ao gastar todas as vidas o jogo gera uma nova sequencia de cores.
 Para ganhar é preciso acertar as sequencias 20 vezes.
