@@ -9,4 +9,5 @@ Requisitos:
 - 1 arduino
 - 4 leds
 - 4 botões
-Os código está configurado para botões sem resistores.
+O
+código está configurado para botões sem resistores.
